@@ -1,3 +1,5 @@
+# This project has moived to [codeberg](https://codeberg.org/nellik/README-template)
+
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
